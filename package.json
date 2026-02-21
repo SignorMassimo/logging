@@ -1,0 +1,17 @@
+{
+  "name": "logging",
+  "version": "0.0.1",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "kleur": "^4.1.5"
+  }
+}
